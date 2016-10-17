@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# menu.sh
+# menu1.sh
 # Exemplo de construção de um menu textual.
 
 # Inicia um loop infinito, reimprimindo o menu a cada seleção.
