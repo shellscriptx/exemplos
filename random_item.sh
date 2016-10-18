@@ -7,6 +7,7 @@
 # Verifica se o arquivo existe e se nao esta vazio.
 if [ ! -s "$1" ]; then
 	echo "Arquivo está vazio ou não existe." 1>&2
+	echo  "uso: $0 <arquivo>"
 	exit 1
 fi
 
